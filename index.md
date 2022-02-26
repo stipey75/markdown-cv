@@ -3,12 +3,13 @@ layout: cv
 title: Lucio Pinese CV
 ---
 # Lucio Pinese
-Electronic engineer
+Electronic engineer and Bitcoin lover.
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Working in a big manufacture company of white goods ( Electrolux ) with a strong desire to enter in the crypto space to satisfy my desire of learning.
+I am a senior embedded firmware developer and I am responsible of the develop of various electronic boards for the refrigerators of all the regions ( EMEA, APAC, LATAM and NA ).
 
 ### Specialized in
 
