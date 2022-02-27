@@ -19,7 +19,7 @@ In these company my daily duties are:
 
 My skills are:
 * Strong C/C++ experience in more than 20 years of software/firmware develop in various sectors.
-* Rust addicted: self learners
+* Rust addicted: self learner and with a great 
 
 ### Specialized in
 
