@@ -10,6 +10,16 @@ Electronic engineer and Bitcoin lover.
 
 Working in a big manufacture company of white goods ( Electrolux ) with a strong desire to enter in the crypto space to satisfy my desire of learning.
 I am a senior embedded firmware developer and I am responsible of the develop of various electronic boards for the refrigerators of all the regions ( EMEA, APAC, LATAM and NA ).
+In these company my daily duties are:
+* Discuss with UI team to introduce their request in our products.
+* Discuss with laboratories teams to introduce in the firmware new thermodynamic regulations algorithm.
+* Discuss with test labs to check issue and eventually fix.
+* Maintain and develop code with Bitbucket and Git.
+* Meetings with production team to satisfy the request for new products.
+
+My skills are:
+* Strong C/C++ experience in more than 20 years of software/firmware develop in various sectors.
+* Rust addicted: self learners
 
 ### Specialized in
 
