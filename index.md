@@ -37,12 +37,16 @@ My skills are:
 * *2012 - 2017*
   * Worked [here](https://www.niceforyou.com/it).
   * I was the project leader for awnings motor control:
-   ** I developed several boards and firmware for various size of tubular motors.
-   ** Supported laboratory testing for functional testing and electronic board testing.
-   * Radio protocol develop for radio controlled activation.
+    * I developed several boards and firmware for various size of tubular motors.
+    * Supported laboratory testing for functional testing and electronic board testing.
+    * Radio protocol develop for radio controlled activation.
+    * DC and AC motor control algorithm with various microcontroller families.
 
 * *2010 - 2012*
- * Worked in a small company producer of third party electronic devices for various sectors.
+ * Worked in a small company producer of third party electronic devices for various sectors:
+   * Automation of hospital beds.
+   * 
+ 
 
 * *2003 - 2010*
  ** Worked [here](https://www.telit.com/) as software developer for GSM modules. I worked in the protocol team with other 10 devs and I deeply focused on ISO/OSI layers from application to transport. Over the years I have achieved a great understanding of TCP/IP 
