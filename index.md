@@ -37,8 +37,8 @@ My skills are:
 * *2012 - 2017*
   * Worked [here](https://www.niceforyou.com/it).
   * I was the project leader for awnings motor control:
-   * I developed several boards and firmware for various size of tubular motors.
-   * Supported laboratory testing for functional testing and electronic board testing.
+   ** I developed several boards and firmware for various size of tubular motors.
+   ** Supported laboratory testing for functional testing and electronic board testing.
    * Radio protocol develop for radio controlled activation.
 
 * *2010 - 2012*
