@@ -43,6 +43,9 @@ My skills are:
     * DC and AC motor control algorithm with various microcontroller families.
 
 * *2010 - 2012*
+ * sadsads
+   * fsfdasfds
+   *  
  * Worked in a small company producer of third party electronic devices for various sectors:
    * Automation of hospital beds.
    * 
