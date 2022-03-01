@@ -27,9 +27,9 @@ My skills are:
 
 ## Previous experiences
 * _2012 - 2017_
-** 
-** 
-* 
+  ** Worked [here](https://www.niceforyou.com/it). I was the project leader for awnings motor control, I developed several boards and firmware.
+  
+ 
 
 ### Specialized in
 
