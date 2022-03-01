@@ -26,8 +26,9 @@ My skills are:
 * Use of various tools for microcontroller debugging.
 
 ## Previous experiences
-* _2012 - 2017_
-  ** Worked [here](https://www.niceforyou.com/it). I was the project leader for awnings motor control, I developed several boards and firmware.
+
+* *2012 - 2017*
+  * Worked [here](https://www.niceforyou.com/it). I was the project leader for awnings motor control, I developed several boards and firmware for various size of tubular motors.
   
  
 
