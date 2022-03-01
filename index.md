@@ -19,7 +19,17 @@ In these company my daily duties are:
 
 My skills are:
 * Strong C/C++ experience in more than 20 years of software/firmware develop in various sectors.
-* Rust addicted: self learner and with a great 
+* Rust addicted: self learner and I strongly desire to make Rust my daily coding language.
+* Daily user of Git, Bitbucket and Jira.
+* Teamworking lover.
+* Continuous integration of software modules.
+* Use of various tools for microcontroller debugging.
+
+## Previous experiences
+* _2012 - 2017_
+** 
+** 
+* 
 
 ### Specialized in
 
