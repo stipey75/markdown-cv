@@ -1,16 +1,14 @@
----
-layout: cv
-title: Lucio Pinese CV
----
-# Lucio Pinese
-Electronic engineer and Bitcoin lover.
+Pinese Lucio
 
-# My personal details:
-* Date of birth : 19th October 1975
-* Phone : +393293571113
-* Address : Strada del Nascimben 20
-* City : Treviso
-* State : Italy
+_phone_: +393293571113
+
+_mail_: pinball_wizard@posteo.net
+
+02 March 2022
+
+Dear Hiring Manger,
+
+
 
 
 ## Currently
