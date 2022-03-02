@@ -72,7 +72,7 @@ Super interested in coding and in particular to make Rust my daily tool for codi
 __University of Trieste, Italy__
 
 `1990-1995`
-__Liceo Scientifico Brandolini Rota, Oderzo, Treviso __
+__Liceo Scientifico Brandolini Rota, Oderzo, Treviso__
 
 
 
