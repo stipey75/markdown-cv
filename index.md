@@ -43,27 +43,25 @@ My skills are:
     * DC and AC motor control algorithm with various microcontroller families.
 
 * *2010 - 2012*
- * sadsads
-   * fsfdasfds
-   *  
- * Worked in a small company producer of third party electronic devices for various sectors:
-   * Automation of hospital beds.
-   * 
+  * Worked in a small company producer of third party electronic devices for various sectors:
+    * Automation of hospital beds for long term treatment.
+    * Luxury shower box command interfaces with touch sensors.
+    * Led driver for streelight.
  
-
 * *2003 - 2010*
- ** Worked [here](https://www.telit.com/) as software developer for GSM modules. I worked in the protocol team with other 10 devs and I deeply focused on ISO/OSI layers from application to transport. Over the years I have achieved a great understanding of TCP/IP 
-  
+  * Worked [here](https://www.telit.com/).
+  * I worked as software developer for GSM modules in the protocols team achieving a great experience in:
+    * ISO/OSI layers from application to transport.
+    * Great understanding of TCP/IP working on the code.
+    * Embedded OS.
+    * Creation of custom AT commands for customer requests.
+    * Source control in a group of more than 30 devs.
+    * ARM7 interface with GSM module for remote energy meter.
  
 
-### Specialized in
+### Interests
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
+I'm a tech lover, I love cinema and music and 
 
 
 ## Education
