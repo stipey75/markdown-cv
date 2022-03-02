@@ -22,7 +22,7 @@ In these company my daily duties are:
 * Discuss with laboratories teams to introduce in the firmware new thermodynamic regulations algorithm.
 * Discuss with test labs to check issue and eventually fix.
 * Maintain and develop code with Bitbucket and Git.
-* Meetings with production team to satisfy the request for new products.
+* Meetings with production team to satisfy the requests for new products.
 
 My skills are:
 * Strong C/C++ experience in more than 20 years of software/firmware develop in various sectors.
