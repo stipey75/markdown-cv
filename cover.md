@@ -18,7 +18,7 @@ What makes me think that I could be a good candidate for this position is that I
 
 I know that I am no more a young guy and this is a fact, surely you'll receive a lot of applications from younger candidates for this amazing position in Blockstream, but I think that my experience as a software developer could be a plus: I am confident with many tools, IDE, source control and bugtracking and I come from many years of teamworking with local and international teams. Beside tech skills I consider myself a humble and extroverted person, love to learn from other and expand my competences in every aspect of technologies. I love sports, cinema and good readings.
 
-I really hope that you'll consider my application a give me a chance to have a call or a meeting with your team. It would be such an honor for me to have the opportunity to work in a such amazing company and push my skills in crypto to the highest levels.
+I really hope that you'll consider my application a give me a chance to have a call or a meeting with your team. It would be such an honor for me to have the opportunity to work in an amazing company like Blockstream and skyrocket my skills in crypto to the highest levels.
 
 I look forward to hear some feedback from you and thanks for giving me the opportunity to apply for a position.
 
