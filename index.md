@@ -15,7 +15,7 @@ Electronic engineer and Bitcoin lover.
 
 ## Currently
 
-Working in a big manufacture company of white goods ( Electrolux ) with a strong desire to enter in the crypto space to satisfy my desire of learning.
+Working in a big manufacture company of white goods ( Electrolux ), but I have a strong desire to enter in the crypto space to satisfy my desire of learning.
 I am a senior embedded firmware developer and I am responsible of the develop of various electronic boards for the refrigerators of all the regions ( EMEA, APAC, LATAM and NA ).
 In these company my daily duties are:
 * Discuss with UI team to introduce their request in our products.
@@ -26,7 +26,7 @@ In these company my daily duties are:
 
 My skills are:
 * Strong C/C++ experience in more than 20 years of software/firmware develop in various sectors.
-* Rust addicted: self learner and I strongly desire to make Rust my daily coding language.
+* Rust addicted: self learner and I strongly desire to make Rust my daily coding language, introducing it in some tools for develop and some small tests on embedded devices.
 * Daily user of Git, Bitbucket and Jira.
 * Teamworking lover.
 * Continuous integration of software modules.
@@ -39,7 +39,7 @@ My skills are:
   * I was the project leader for awnings motor control:
     * I developed several boards and firmware for various size of tubular motors.
     * Supported laboratory testing for functional testing and electronic board testing.
-    * Radio protocol develop for radio controlled activation.
+    * Radio protocol develop for motors with receiver onboard.
     * DC and AC motor control algorithm with various microcontroller families.
 
 * *2010 - 2012*
@@ -61,9 +61,11 @@ My skills are:
 
 ### Interests
 
-I'm a tech lover, I love cinema,music and sports in general.
+I'm a tech lover, I love cinema, music and sports in general.
+
 I discovered [bitcointalk](https://bitcointalk.org/) in 2012 and I fell in love with the idea of crypto and bitcoin, I followed all the incredible develops of bitcoin and crypto in these years.
-Super interested in coding and in particular to make Rust my daily tool for coding.
+
+Super interested in coding and in particular to make Rust my daily tool for coding. I hope to get a chance to have a call with Blockstream to try to fulfill my dream of making Bitcoin my daily work.
 
 
 ## Education
@@ -73,7 +75,6 @@ __University of Trieste, Italy__
 
 `1990-1995`
 __Liceo Scientifico Brandolini Rota, Oderzo, Treviso__
-
 
 
 
