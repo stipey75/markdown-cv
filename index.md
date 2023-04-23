@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Lucio Pinese CV
+title: Lucio Pinese
 ---
 # Lucio Pinese
 Electronic engineer and Bitcoin lover.
